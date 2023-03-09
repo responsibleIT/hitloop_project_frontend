@@ -27,7 +27,7 @@ fetch(fetch_string)
     return response.json();
 })
 .then(function(midi){
-    console.log(midi);
+    //console.log(midi);
 
 
 ////////////////////// Functions for tone.js //////////////////////
